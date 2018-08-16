@@ -1,0 +1,10 @@
+
+
+#ztbox { width:1690px; height:460px; margin:0 auto;}
+#ztbox #left { width:44px; height:94px; ;float:left; cursor:pointer;background:url(../images/curtual/552cc1babd9aa_12821.png);  margin-top:120px;}
+#ztbox #right{ width:44px; height:94px;float:left; cursor:pointer;background:url(../images/curtual/552cc1babd9aa_1282.png);  margin-top:120px;}
+
+#ztbox #conter { width:690px; height:460px; float:left; display:inline; overflow:hidden; position:relative; margin:0px 10px;}
+#ztbox #conter ul { width:auto; height:280px; top:0px; left:0px; position:absolute; overflow:hidden;}
+#ztbox #conter li { width:220px; height:280px; float:left;padding:0px 5px; position:relative;}
+#ztbox #conter li img { width:200px; height:260px;}

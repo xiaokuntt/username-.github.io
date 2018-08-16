@@ -1,0 +1,133 @@
+
+.position>span>a{
+	font-size: 14px;
+	margin-bottom: 35px;
+	color: #333332;
+}
+.newsh{
+	color: #333332;
+	font-size: 28px;
+	text-align: center;
+}
+.newsp{
+	color: #bfbcac;
+	font-size: 14px;
+	margin-top: -6px;
+	text-align: center;
+}
+.newsbody{
+	font-size: 16px;
+	color: #333333;
+	line-height: 35px;
+}
+.content>div>img{
+	width: 1300px;
+	height: 603px;
+}
+.newsfoot{
+	color: #ad1a30;
+	float: right;
+}
+.wmzds{
+	background:#fff;
+	width: 240px;
+	height: 300px;
+	margin-left: 25px;
+	float: left;
+	-moz-transition-property:border-color,background-color,color;
+	-moz-transition-duration:.5s;
+	-moz-transition-timing-function:ease-in;
+	-webkit-transition-property:border-color,background-color,color;
+	-webkit-transition-duration:.5s;
+	-webkit-transition-timing-function:ease-in;
+	transition-property:border-color,background-color,color;
+	transition-duration:.5s;
+	transition-timing-function:ease-in;
+}
+.wmzds:hover {
+	border-color:#999;background-color:#F39597;
+}
+.wmzds:hover .wmzdstext{
+	color:#fff
+}
+.wmzds:hover p{
+	color:#fff
+}
+.wmzds>a>p{
+	font-size: 14px;
+	color: darkgrey;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.wmzdstext{
+	margin-top:10px; 
+	font-size: 20px;
+	font-weight: 900;
+	text-align: center;
+	color: #000000
+}
+.nqdx{
+	float: left;
+	width: 450px;
+	background: #FFFFFF;
+}
+.nqdx>a>div>h1:hover{
+	color: aqua;
+	
+}
+.nqdx>a>div>h1{
+	font-size: 24px;font-weight: bold;margin-left: 20px;color: #000000;
+}
+#ltjy1{
+	background: #FFFFFF;
+}
+.ltjy{
+	margin-top: 16px;
+	width: 250px;
+	height: 300px;
+	margin-left: 20px;
+	float: left;
+	background: #f7f8fa;
+	
+	margin-bottom: 15px
+}
+.bbbbbb{
+	box-shadow: 0 0 10px rgba(76,77,77,.3);
+}
+.ltjy>img{
+	width: 250px;
+	height: 170px;
+}
+.img:hover{
+	visibility:visible;
+	   -webkit-transform: scale(1.02);
+	-moz-transform: scale(1.02);
+	-o-transform: scale(1.02);
+	-ms-transform: scale(1.02);
+}
+.wl{
+	float: left;
+	width: 240px;
+	height: 120px;
+	background: #fff;
+	color: #C71417;
+	margin-left: 25px;
+}
+.wl>h1{
+	text-align: center;
+	
+}
+.wl>h2{
+	text-align: center;
+	margin-top: -15px;
+	font-size: 30px;
+}
+.wl:hover{
+	background:#B11013
+}
+.wl:hover h1{
+	color: aliceblue;
+}
+.wl:hover h2{
+	color: aliceblue;
+}

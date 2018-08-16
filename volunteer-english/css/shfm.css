@@ -1,0 +1,79 @@
+.dyzfPic{
+	width: 550px;
+	height: 200px;
+	margin-right: 10px;
+	margin-left: 8px;
+	margin-bottom: 15px;
+	float: left;
+	z-index: 10
+}
+#dyzfPic_1{
+	width: 724px;
+	margin-right: 8px;
+	margin-bottom: 5px;
+	float: right;
+	z-index: 40;
+}
+#dyzfPic_1>div>a>img:hover{
+	opacity: 0.8;
+}
+.dyzfPic_li{
+	color: #a51c30;
+	margin-top: 20px;
+	float: left
+}
+.dyzfPic_li>a{
+	color: #333333;
+	font-size: 15px;
+	float: left;
+}
+.dyzfPic_li>a:hover{
+	text-decoration: underline;
+	color: #a51c30;
+}
+.shxz{
+	float: left;
+	margin-left: 8px;
+}
+.shxzPic{
+	width: 300px;
+	margin-bottom: 8px;
+	float: left;
+}
+.shxzPic>img{
+	width: 300px;
+	height: 185px;
+}
+.shxzChar{
+	width: 319px;
+	float: right;
+}
+.shxzChar>a>p{
+	float: left;
+	margin-left: 15px;
+	margin-top: 9px;
+	line-height: 15px;
+	color: #333333;
+	font-size: 15px;
+}
+.shxzChar>a>p:hover{
+	color:#B91417
+}
+.zwwlPic{
+	width: 400px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+.zwwlP{
+	margin-top: 35px;
+	margin-left: 40px;
+}
+.zwwlP1{
+	font-size: 15px;
+	color: #333333;
+	line-height: 28px;
+}
+.zwwlP1:hover{
+	color: aliceblue;
+	background: #921D1F
+}
